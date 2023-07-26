@@ -12,6 +12,7 @@ module.exports = {
         colors: {
           'black-rgba': 'rgba(18, 18, 18, 0.10)',
           'card-name':'rgba(18, 18, 18, 0.60)',
+          'icon-bg':'rgba(18, 18, 18, 0.10)',
         },
       },
     },
