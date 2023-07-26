@@ -6,3 +6,15 @@ module.exports = {
     },
     plugins: [],
   }
+  module.exports = {
+    theme: {
+      extend: {
+        colors: {
+          'black-rgba': 'rgba(18, 18, 18, 0.10)',
+          'card-name':'rgba(18, 18, 18, 0.60)',
+        },
+      },
+    },
+    variants: {},
+    plugins: [],
+  }
