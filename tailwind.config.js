@@ -18,3 +18,12 @@ module.exports = {
     variants: {},
     plugins: [],
   }
+  module.exports = {
+    theme: {
+      extend: {
+        backgroundImage: {
+          'team-bg': "url('/images/team.png')",
+        }
+      }
+    }
+  }
